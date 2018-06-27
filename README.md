@@ -1,6 +1,6 @@
 # hface server
 
-sample Hazecast server with an [hface-client](https://github.com/tolitius/hface) dependency
+sample Hazecast server with an [hface client](https://github.com/tolitius/hface) dependency
 
 ## running sample
 
